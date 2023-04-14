@@ -19,6 +19,9 @@ import {
     starbucks,
     tesla,
     shopify,
+    flam,
+    jivaso,
+    star_concept,
     carrent,
     jobit,
     tripguide,
@@ -118,8 +121,8 @@ import {
     {
       title: "React.js Developer",
       company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
+      icon: flam,
+      iconBg: "#000000",
       date: "March 2020 - April 2021",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
@@ -131,7 +134,7 @@ import {
     {
       title: "React Native Developer",
       company_name: "Tesla",
-      icon: tesla,
+      icon: jivaso,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
@@ -144,7 +147,7 @@ import {
     {
       title: "Web Developer",
       company_name: "Shopify",
-      icon: shopify,
+      icon: star_concept,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [

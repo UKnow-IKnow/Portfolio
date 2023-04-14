@@ -25,6 +25,9 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import flam from "./company/flam.png";
+import jivaso from "./company/Jivaso_Technologies.png";
+import star_concept from "./company/A_Star_Concepts.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,6 +59,9 @@ export {
   shopify,
   starbucks,
   tesla,
+  flam,
+  jivaso,
+  star_concept,
   carrent,
   jobit,
   tripguide,
