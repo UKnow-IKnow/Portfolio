@@ -3,29 +3,25 @@ import {
     backend,
     creator,
     web,
+    cpp,
+    kotlin,
     javascript,
-    typescript,
+    android,
+    Flutter,
     html,
     css,
     reactjs,
-    redux,
     tailwind,
-    nodejs,
-    mongodb,
+    firebase,
     git,
+    github1,
     figma,
-    docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
     flam,
     jivaso,
     star_concept,
     carrent,
     jobit,
     tripguide,
-    threejs,
   } from "../assets";
   
   export const navLinks = [
@@ -68,6 +64,30 @@ import {
   
   const technologies = [
     {
+      name: "Cpp",
+      icon: cpp,
+    },
+    {
+      name: "Kotlin",
+      icon: kotlin, 
+    },
+    {
+      name: "JavaScript",
+      icon: javascript,
+    },
+    {
+      name: "Android",
+      icon: android,
+    },
+    {
+      name: "Flutter",
+      icon: Flutter,
+    },
+    {
+      name: "React JS",
+      icon: reactjs,
+    },
+    {
       name: "HTML 5",
       icon: html,
     },
@@ -76,48 +96,24 @@ import {
       icon: css,
     },
     {
-      name: "JavaScript",
-      icon: javascript,
-    },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
-      name: "React JS",
-      icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
+      name: "Firebase",
+      icon: firebase,
     },
     {
       name: "git",
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "github1",
+      icon: github1,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "figma",
+      icon: figma,
     },
   ];
   
