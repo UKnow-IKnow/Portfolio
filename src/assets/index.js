@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import live from "./live.png"
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -28,6 +29,7 @@ import jivaso from "./company/Jivaso_Technologies.png";
 import star_concept from "./company/A_Star_Concepts.png";
 
 import carrent from "./carrent.png";
+import newsapp from "./newsapp.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -38,6 +40,7 @@ export {
   mobile,
   web,
   github,
+  live,
   menu,
   close,
   css,
@@ -57,6 +60,7 @@ export {
   jivaso,
   star_concept,
   carrent,
+  newsapp,
   jobit,
   tripguide,
 };

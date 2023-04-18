@@ -20,6 +20,7 @@ import {
     jivaso,
     star_concept,
     carrent,
+    newsapp,
     jobit,
     tripguide,
   } from "../assets";
@@ -188,25 +189,30 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Articles News ",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Articles News App is a state-of-the-art news application that provides users with the latest breaking news, articles, and other relevant content from various sources via a News API.",
       tags: [
         {
-          name: "react",
+          name: "MVVM",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Retrofit",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Room",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Coroutines",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: newsapp,
+      source_code_link: "https://github.com/UKnow-IKnow/Articles-News.git",
+      live_link: "https://drive.google.com/file/d/115R4w3xA_0oQzx82NojN-hUDk8PdkRvV/view",
     },
     {
       name: "Job IT",
@@ -228,6 +234,7 @@ import {
       ],
       image: jobit,
       source_code_link: "https://github.com/",
+      live_link: "https://github.com/",
     },
     {
       name: "Trip Guide",
@@ -249,6 +256,73 @@ import {
       ],
       image: tripguide,
       source_code_link: "https://github.com/",
+      live_link: "https://github.com/",
+    },
+    {
+      name: "Car Rent",
+      description:
+        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/",
+      live_link: "https://github.com/",
+    },
+    {
+      name: "Job IT",
+      description:
+        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "restapi",
+          color: "green-text-gradient",
+        },
+        {
+          name: "scss",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: jobit,
+      source_code_link: "https://github.com/",
+      live_link: "https://github.com/",
+    },
+    {
+      name: "Trip Guide",
+      description:
+        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      tags: [
+        {
+          name: "nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "supabase",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: tripguide,
+      source_code_link: "https://github.com/",
+      live_link: "https://github.com/",
     },
   ];
   
